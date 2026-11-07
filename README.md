@@ -1,7 +1,7 @@
 # Dashbaord-Generic
 
 An enterprise-grade, universal project operations dashboard designed for tracking complex portfolios across any industry — software, engineering, consulting, construction, and operations. Built with React 19, Vite, Tailwind CSS, Recharts, and backed by a live **Supabase PostgreSQL** database.
-
+Demo Link: https://dashboard-generic.netlify.app/
 ---
 
 ## Overview
